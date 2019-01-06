@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/ReactReduxRobotApp/static/js/runtime~main.b522e594.js"
   },
   {
-    "revision": "996ab2eb3eae00f81d92",
-    "url": "/ReactReduxRobotApp/static/js/main.996ab2eb.chunk.js"
+    "revision": "d7dc1cc473db75af5f5b",
+    "url": "/ReactReduxRobotApp/static/js/main.d7dc1cc4.chunk.js"
   },
   {
     "revision": "75ac861775bb9627230e",
     "url": "/ReactReduxRobotApp/static/js/1.75ac8617.chunk.js"
   },
   {
-    "revision": "996ab2eb3eae00f81d92",
+    "revision": "d7dc1cc473db75af5f5b",
     "url": "/ReactReduxRobotApp/static/css/main.0e6de4f8.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/ReactReduxRobotApp/static/css/1.4b972714.chunk.css"
   },
   {
-    "revision": "67c476be39d5cc101d6b0e67005e76ff",
+    "revision": "64a4a3c76ab2c23b67d6a61764cc5c8a",
     "url": "/ReactReduxRobotApp/index.html"
   }
 ];
