@@ -2,6 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://davidcasper01.github.io/ReactReduxRobotApp",
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
@@ -9,6 +10,8 @@
     "why-did-you-update": "^1.0.6"
   },
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
