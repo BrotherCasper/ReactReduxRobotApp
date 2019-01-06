@@ -1,7 +1,7 @@
 {
-  "main.css": "/ReactReduxRobotApp/static/css/main.0e6de4f8.chunk.css",
-  "main.js": "/ReactReduxRobotApp/static/js/main.d7dc1cc4.chunk.js",
-  "main.js.map": "/ReactReduxRobotApp/static/js/main.d7dc1cc4.chunk.js.map",
+  "main.css": "/ReactReduxRobotApp/static/css/main.e564ab4e.chunk.css",
+  "main.js": "/ReactReduxRobotApp/static/js/main.d2b7ee5f.chunk.js",
+  "main.js.map": "/ReactReduxRobotApp/static/js/main.d2b7ee5f.chunk.js.map",
   "static/css/1.4b972714.chunk.css": "/ReactReduxRobotApp/static/css/1.4b972714.chunk.css",
   "static/js/1.75ac8617.chunk.js": "/ReactReduxRobotApp/static/js/1.75ac8617.chunk.js",
   "static/js/1.75ac8617.chunk.js.map": "/ReactReduxRobotApp/static/js/1.75ac8617.chunk.js.map",
@@ -9,8 +9,8 @@
   "runtime~main.js.map": "/ReactReduxRobotApp/static/js/runtime~main.b522e594.js.map",
   "static/css/1.4b972714.chunk.css.map": "/ReactReduxRobotApp/static/css/1.4b972714.chunk.css.map",
   "static/media/App.css": "/ReactReduxRobotApp/static/media/SEGA.12a3db8b.woff",
-  "static/css/main.0e6de4f8.chunk.css.map": "/ReactReduxRobotApp/static/css/main.0e6de4f8.chunk.css.map",
+  "static/css/main.e564ab4e.chunk.css.map": "/ReactReduxRobotApp/static/css/main.e564ab4e.chunk.css.map",
   "index.html": "/ReactReduxRobotApp/index.html",
-  "precache-manifest.e3ad02930a349d9e9b47c977d2a7f1ab.js": "/ReactReduxRobotApp/precache-manifest.e3ad02930a349d9e9b47c977d2a7f1ab.js",
+  "precache-manifest.30968c5de82fb7b3048269b6ed0e015e.js": "/ReactReduxRobotApp/precache-manifest.30968c5de82fb7b3048269b6ed0e015e.js",
   "service-worker.js": "/ReactReduxRobotApp/service-worker.js"
 }
