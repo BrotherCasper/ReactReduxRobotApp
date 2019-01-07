@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/ReactReduxRobotApp/static/css/1.4b972714.chunk.css"
   },
   {
-    "revision": "ee9dac48e6a4c3fbe8575601bd10108e",
+    "revision": "cb6e2d3985a91fbdde1ac98282509734",
     "url": "/ReactReduxRobotApp/index.html"
   }
 ];
