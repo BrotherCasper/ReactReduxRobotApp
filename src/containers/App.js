@@ -28,6 +28,12 @@ const mapDispatchToProps = (dispatch) => {
 
 class App extends Component{
     
+    constructor() {
+        super()
+        this.state = {
+          count: 1
+        }
+      }
 
     onSearchChange = (event) =>
     {
@@ -48,7 +54,7 @@ class App extends Component{
             (<h1>Loading</h1>):     
         (
                 <div className = 'tc'>
-                    <Header/>
+                    <Header count={this.state.count}/>
                     <SearchBox searchChange = {onSearchChange}/>
                     <Scroll>
                         <ErrorBoundry>
